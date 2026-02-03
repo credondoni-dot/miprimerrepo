@@ -7,3 +7,6 @@ no me deja que ho estres
 
 cambios desde el repositorio
 aver como me va con este dema el guthub (asustado)
+
+
+otro cambio para ver el ultimo uso  del comando llamado fetch 
